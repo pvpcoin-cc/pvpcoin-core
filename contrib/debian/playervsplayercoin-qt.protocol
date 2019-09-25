@@ -1,0 +1,11 @@
+[Protocol]
+exec=playervsplayercoin-qt '%u'
+protocol=playervsplayercoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

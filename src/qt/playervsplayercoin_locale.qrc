@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/playervsplayercoin_bg.qm</file>
+        <file alias="de">locale/playervsplayercoin_de.qm</file>
+        <file alias="en">locale/playervsplayercoin_en.qm</file>
+        <file alias="es">locale/playervsplayercoin_es.qm</file>
+        <file alias="fi">locale/playervsplayercoin_fi.qm</file>
+        <file alias="fr">locale/playervsplayercoin_fr.qm</file>
+        <file alias="it">locale/playervsplayercoin_it.qm</file>
+        <file alias="ja">locale/playervsplayercoin_ja.qm</file>
+        <file alias="nl">locale/playervsplayercoin_nl.qm</file>
+        <file alias="pl">locale/playervsplayercoin_pl.qm</file>
+        <file alias="pt">locale/playervsplayercoin_pt.qm</file>
+        <file alias="ru">locale/playervsplayercoin_ru.qm</file>
+        <file alias="sk">locale/playervsplayercoin_sk.qm</file>
+        <file alias="sv">locale/playervsplayercoin_sv.qm</file>
+        <file alias="vi">locale/playervsplayercoin_vi.qm</file>
+        <file alias="zh_CN">locale/playervsplayercoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/playervsplayercoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+qt/qt_libplayervsplayercoinqt_a-qrc_playervsplayercoin.o: \
+ qt/qrc_playervsplayercoin.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

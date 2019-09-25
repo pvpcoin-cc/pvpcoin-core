@@ -1,0 +1,6 @@
+usr/local/bin/playervsplayercoin-qt usr/bin
+share/pixmaps/playervsplayercoin32.xpm usr/share/pixmaps
+share/pixmaps/playervsplayercoin16.xpm usr/share/pixmaps
+share/pixmaps/playervsplayercoin128.png usr/share/pixmaps
+debian/playervsplayercoin-qt.desktop usr/share/applications
+debian/playervsplayercoin-qt.protocol usr/share/kde4/services/
